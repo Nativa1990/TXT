@@ -1,0 +1,5 @@
+
+name: Natalia
+age: 31
+pet: 3
+sallary: 60 000

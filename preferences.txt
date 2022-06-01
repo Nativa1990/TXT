@@ -1,0 +1,5 @@
+moovie: mumia
+soap opera: x-files
+food: avokado
+season: autumn
+country: China
